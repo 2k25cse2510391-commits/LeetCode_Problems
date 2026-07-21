@@ -6,11 +6,8 @@ class Solution {
         temp2[nums.length-1]=nums[nums.length-1];
         for(int a = 1;a<nums.length;a++){
             temp1[a]=nums[a]+temp1[a-1];
+            temp2[nums.length-1-a]=nums[nums.length-1-a]+temp2[nums.length-a];
         }
-        for(int a = nums.length-2;a>=0;a--){
-            temp2[a]=nums[a]+temp2[a+1];
-        }
-
         for(int a = 0;a<nums.length;a++){
             if(temp1[a]==temp2[a]){
                 return a;
