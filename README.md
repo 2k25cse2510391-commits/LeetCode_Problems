@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
