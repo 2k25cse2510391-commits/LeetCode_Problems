@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
