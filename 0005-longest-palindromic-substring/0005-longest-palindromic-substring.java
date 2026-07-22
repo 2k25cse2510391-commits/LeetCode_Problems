@@ -4,24 +4,24 @@ class Solution {
             return s;
         }
         int p = 0;
-        int q = 1;
-        int temp=q;
+        int q = s.length();
+        int temp=p;
         int start = 0;
         int end = 0;
 
         for(int a = 0 ; a < s.length() ; a++ ){
-            while(q<=s.length()){
+            while(p>=0){
                 if(is_Palindrome(s.substring(p,q))){
                     start=p;
                     end=q;
-                    break;
+                    return s.substring(p,q);
                 }
-                p++;
-                q++;
+                p--;
+                q--;
             }
-            p=0;
-            q=temp+1;
-            temp=q;
+            p=temp+1;
+            q=s.length();
+            temp=p;
         }
         return s.substring(start,end);
     }
