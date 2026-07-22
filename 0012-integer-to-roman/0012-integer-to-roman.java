@@ -40,14 +40,14 @@ class Solution {
         table.put(9,"IX");
 
     int x=(int)Math.pow(10,(int)Math.log10(num)+1);
-    String str = "";
+    StringBuilder str = new StringBuilder("");
     
     while(x!=0){
-        str = str+table.get((int)(num/x)*x);
+        str.append(table.get((int)(num/x)*x));
         num%=x;
         x/=10;
     }
 
-    return str;
+    return str.toString();
     }
 }
