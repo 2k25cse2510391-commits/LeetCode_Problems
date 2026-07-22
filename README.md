@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
