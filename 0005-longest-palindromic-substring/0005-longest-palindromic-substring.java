@@ -6,14 +6,11 @@ class Solution {
         int p = 0;
         int q = s.length();
         int temp=p;
-        int start = 0;
-        int end = 0;
 
         for(int a = 0 ; a < s.length() ; a++ ){
             while(p>=0){
-                if(is_Palindrome(s.substring(p,q))){
-                    start=p;
-                    end=q;
+                
+                if(s.charAt(p)==s.charAt(q-1)&&is_Palindrome(s.substring(p,q))){
                     return s.substring(p,q);
                 }
                 p--;
@@ -23,7 +20,7 @@ class Solution {
             q=s.length();
             temp=p;
         }
-        return s.substring(start,end);
+        return new String("");
     }
     public boolean is_Palindrome(String S){
         int p=0;
