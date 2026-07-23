@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
