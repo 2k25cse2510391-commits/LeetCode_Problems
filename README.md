@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
