@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 ## String Matching
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
