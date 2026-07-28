@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
