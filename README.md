@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Sliding Window
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
 ## Recursion
 |  |
 | ------- |
