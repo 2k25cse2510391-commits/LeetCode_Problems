@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0454-4sum-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0454-4sum-ii) |
 | [0724-find-pivot-index](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0454-4sum-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0454-4sum-ii) |
 ## Linked List
 |  |
 | ------- |
