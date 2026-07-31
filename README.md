@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -122,8 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
