@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0454-4sum-ii) |
 ## Linked List
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
