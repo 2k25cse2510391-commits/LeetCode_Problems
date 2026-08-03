@@ -27,6 +27,9 @@ class Solution {
             temp = true;
             return;
         }
+        if(temp==true){
+            return;
+        }
         char temp = board[x][y];
         board[x][y]='@';
 
