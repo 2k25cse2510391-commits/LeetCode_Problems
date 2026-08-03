@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
