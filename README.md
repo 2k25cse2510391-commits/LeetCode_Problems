@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
