@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
