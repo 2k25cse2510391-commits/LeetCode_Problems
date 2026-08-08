@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
 | ------- |
