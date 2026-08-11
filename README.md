@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
@@ -191,8 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
