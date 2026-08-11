@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
 ## Divide and Conquer
