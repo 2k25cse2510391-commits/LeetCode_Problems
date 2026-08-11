@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
