@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0234-palindrome-linked-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/2k25cse2510391-commits/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
