@@ -25,12 +25,12 @@ class Solution {
             }
             return false;
         }
-        if(n==3){
-            if(head.val==head.next.next.val){
-                return true;
-            }
-            return false;
-        }
+        // if(n==3){
+        //     if(head.val==head.next.next.val){
+        //         return true;
+        //     }
+        //     return false;
+        // }
         int mid =0;
         if(n%2==0){
             mid = (n/2);
